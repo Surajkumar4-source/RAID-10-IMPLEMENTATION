@@ -269,11 +269,6 @@ cat /mnt/raid10/testfile.txt
 
 ![Alt text for image](screenshots/14.png)
 
-15.
 <br>
 <br>
-
-![Alt text for image](screenshots/15.png)
-
-
 
